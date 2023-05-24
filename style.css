@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font: 1em sans-serif;
 }
 .navbar{
     display: flex;
@@ -25,7 +26,6 @@ body{
     color: gray;
     list-style: none;
     font-size: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .navbar ul li a{
     text-decoration: none;
@@ -33,12 +33,13 @@ body{
 .section{
     margin-top: 5px;
     width: 95vw;
-    height: 40vh;
+    height: 80vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(99, 96, 96);
+    background-color: rgb(95, 93, 93);
     border-radius: 20px;
+    
 }
 .text{
     width: 600px;
@@ -48,15 +49,15 @@ body{
     color: rgb(209, 235, 157);
 }
 .image{
-    height: 200px;
-    width: 200px;
-    background-color: aqua;
-    border-radius: 50%;
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+    
 }
 span{
     color: rgb(70, 27, 12);
     
-    font-size: 20px;
+    font-size: 30px;
 font-weight: 700;
 }
 .infor{
