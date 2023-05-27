@@ -43,10 +43,10 @@ select{
 
 }
 .navbar ul li a{
-    font-size: 16px;
+    font-size: 18px;
     text-decoration: none;
     font-weight: bold;
-    color: black;
+    color: rgb(26, 5, 104);
 }
 .head{
     display: flex;
