@@ -55,7 +55,7 @@ select{
     font-size: 30px;
     font-weight: bold;
     letter-spacing: 2px;
-    color: rgb(36, 15, 15);
+    color: rgb(121, 40, 40);
     
 }
 
@@ -102,7 +102,7 @@ select{
 }
 .div2 img{
     height: 200px;
-    width: 250px;
+    width: 300px;
     position: relative;
     left:250px ;
     bottom:280px ;
