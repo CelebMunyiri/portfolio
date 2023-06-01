@@ -141,6 +141,7 @@ hr{
     margin-top: 10px;
 }
 .who{
+    background: gainsboro;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -184,9 +185,9 @@ hr{
   }
   .project{
     display: flex;
-    height: 300px;
-    width: 300px;
-    border: 1px solid red;
+    height: 350px;
+    width: 350px;
+    border: 1px solid gainsboro;
   }
   .projects{
     display: flex;
